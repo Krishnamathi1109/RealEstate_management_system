@@ -1,6 +1,6 @@
 # RealEstate_management_system
 The objective of a Real Estate Management System is to provide a digital platform that facilitates the management of real estate properties, buyers, owners,agents, transactions, and related activities.
-
+# Database overview
 Owner - stroes owner details
 owner_id,owner_name,owner_address,owner_email,owner_number.
 
@@ -17,5 +17,7 @@ appoinment - stroes appoinment details ,add appoinment,delete details.
 
 transactions - stores transaction details 
 transaction_id,owner_id,buyer_id,date.
+
+
 
 
